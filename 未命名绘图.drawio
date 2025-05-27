@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T08:13:45.027Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" version="20.6.0" etag="XrUB1Ut7cTYPSwZBx-A5" type="github"><diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">7ZjbctowEIafhksYH8LpEggkM22SmZK218JabDWy5MoCQ56+K1uObZzSZJqUdIYrW7/W2tWu9rOh48/i3ZUiSXQjKfCO59Bdx7/seJ7reT5ejLIvlNHQLYRQMWqNKmHJHsGKjlU3jELaMNRScs2SphhIISDQDY0oJbOm2VrypteEhNASlgHhbfU7ozqyu/CGlX4NLIxKz+5gXMzEpDS2O0kjQmVWk/x5x58pKXVxF+9mwE3yyrwUzy1+M/sUmAKhX/IAvd3tbz8Ng+Fo9TnbphRurvtd1y6zJXxjd3ynwiAiStuo9b5MRZqxmBOBo2mkY46ii7epRltbN4wA56Rij1JoUloEZsAEqPt9Yqy0ArNGyElqimOeae+ljAuUhl1Nsnu7AhmDVns0sbMXNs3lObPDrCrasDxTUa1g3tiKxB6U8GnlKpd4Y9OZD7+moO5WP8xx8xxOVsCLRzteX5AY8NLxBhwdTFcK70Kd77BQWCOng58bU35MEZeq40/yNiD7aqJ6vJ/IlGkmRW15jIsdOmi7JGbLCtYNjzFhXMvcZR/MoFj2wO28mHnyRqq1Tc7y3eZbv4c0NX5uGOegbDnLgHOL2eKukLkMSCXfrdcswJQ5tuBFLPkUrn3hwI7ECYdeIGO7KicBRNjGoJqtzZl4KIRIa0OHiamft8iyrEcVyXpMFobHG8KrnTLbQbUesNWesrjgRtNVQIXfY3je10xgfEXQC0o0MZVCPcXrBk9Pl2xRVGkXY1/0jc9cTrs+BjDqJSJEH1nENCwT3C46yhCvzcZTcoNOqO2gejeZBruRW2ZWyU2NsMCUVUq74Y7j4cVt6A2afdhv96E7eqYPh69vQxzWOvE10PNb0GvBDgSdmNcHjlZ4Yh/uI4YndorygvGyBGskm0Wfa8ZA8d1h1wC+ktm8Eqa5gBMmlywwdDwo4StrksqNCuCPRxnfl0SFcHTFC9t7tPEubNdYAcfW3TZfjWdw/g045zQjihpySqVYaqJss3OqiMhtiEDsqKMc9T4IRy9OylHXeTuUNsnZguu7ofTgi8Z95pPmWZSO/iVK+2eUNgwHZ5SeDKVbgoE53/C3m36OotdfULpkCnMmjzO0fB+emqGDkzJ03PX+d4Qefo1+TIYOzwxtGI7ODD0VQye8+AZ1LqWQOU/bHF3uUw0IE2dCYyaOgtT/ICAdnRSkb4LR9/vMHJ+UkShV/4Hm5rV/kv35Lw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.9">
+  <diagram name="第 1 页" id="F027SMsJTFM74x5GezIm">
+    <mxGraphModel dx="1418" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="230" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-3" value="研究内容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="60" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-4" value="&lt;span style=&quot;font-size:14.0pt;font-family:仿宋_GB2312;&lt;br/&gt;mso-hansi-font-family:宋体;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:&lt;br/&gt;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;开发支持多模态输入的知识编辑算法框架，确保算法能够灵活处理不同类型知识的插入、修改或删除&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="130" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-5" value="&lt;span style=&quot;font-size:14.0pt;font-family:仿宋_GB2312;&lt;br/&gt;mso-hansi-font-family:宋体;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:&lt;br/&gt;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;研究基于&lt;span lang=&quot;EN-US&quot;&gt;LoRA&lt;/span&gt;（&lt;span lang=&quot;EN-US&quot;&gt;Low-Rank Adaptation&lt;/span&gt;）或类似的参数高效微调技术，优化模型参数调整过程，降低计算资源需求。&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="280" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-6" value="&lt;span style=&quot;font-size:14.0pt;font-family:仿宋_GB2312;&lt;br/&gt;mso-hansi-font-family:宋体;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:&lt;br/&gt;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;研究&lt;/span&gt;&lt;span style=&quot;font-size:14.0pt;font-family:仿宋_GB2312;&lt;br/&gt;mso-hansi-font-family:宋体;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:&lt;br/&gt;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;采用对抗训练或正则化技术，约束编辑过程中对无关参数的影响，保持无关知识的稳定性&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="440" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="299" y="90" width="361" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-9" value="项目总体目标与项目内容支撑关系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="376.5" y="70" width="206" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-10" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="310" y="160" width="150" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-12" value="建设任务1：垂直领域专用数据合成方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-14" value="建设任务2：基于强化学习的垂直领域大模型训练推理技术" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-15" value="建设任务3：大模型参数化知识编辑技术" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="355" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-16" value="建设任务4：基于知识蒸馏的大模型轻量化技术。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-17" value="建设任务5：多智能体协同框架，结合软硬件优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-19" value="总体目标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="130" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-21" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="480" y="160" width="150" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-22" value="研发内容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="130" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-23" value="多模态知识表示与编辑算法设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="340.5" width="125" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-24" value="高效参数微调技术开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="380" width="125" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-25" value="无关知识保护机制研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="421" width="125" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-26" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="680" y="90" width="230" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-27" value="指标要求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="735" y="60" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-28" value="设计支持3种以上输入格式的知识编辑算法，单次编辑平均耗时低于1 s，编辑成功率&amp;gt;98%,无关知识保持率&amp;gt;96%。" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="710" y="140" width="170" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-29" value="技术指标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="735" y="120" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
