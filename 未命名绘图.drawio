@@ -1,77 +1,119 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.9">
   <diagram name="第 1 页" id="F027SMsJTFM74x5GezIm">
-    <mxGraphModel dx="1418" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="N_A7d5xoTMJD2YQomuYe-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="40" y="90" width="230" height="550" as="geometry" />
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
+          <mxGeometry x="40" y="90" width="220" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="N_A7d5xoTMJD2YQomuYe-3" value="研究内容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="95" y="60" width="120" height="50" as="geometry" />
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-3" value="研究内容" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="70" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N_A7d5xoTMJD2YQomuYe-4" value="&lt;span style=&quot;font-size:14.0pt;font-family:仿宋_GB2312;&lt;br/&gt;mso-hansi-font-family:宋体;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:&lt;br/&gt;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;开发支持多模态输入的知识编辑算法框架，确保算法能够灵活处理不同类型知识的插入、修改或删除&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="130" width="190" height="130" as="geometry" />
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-6" value="&lt;font face=&quot;仿宋_GB2312&quot;&gt;研究垂直领域专用数据合成方法，开发高效算法生成高质量、多样化数据，满足特定行业需求。&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="55" y="130" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="N_A7d5xoTMJD2YQomuYe-5" value="&lt;span style=&quot;font-size:14.0pt;font-family:仿宋_GB2312;&lt;br/&gt;mso-hansi-font-family:宋体;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:&lt;br/&gt;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;研究基于&lt;span lang=&quot;EN-US&quot;&gt;LoRA&lt;/span&gt;（&lt;span lang=&quot;EN-US&quot;&gt;Low-Rank Adaptation&lt;/span&gt;）或类似的参数高效微调技术，优化模型参数调整过程，降低计算资源需求。&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="280" width="190" height="140" as="geometry" />
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
+          <mxGeometry x="300" y="90" width="390" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="N_A7d5xoTMJD2YQomuYe-6" value="&lt;span style=&quot;font-size:14.0pt;font-family:仿宋_GB2312;&lt;br/&gt;mso-hansi-font-family:宋体;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:&lt;br/&gt;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;研究&lt;/span&gt;&lt;span style=&quot;font-size:14.0pt;font-family:仿宋_GB2312;&lt;br/&gt;mso-hansi-font-family:宋体;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:&lt;br/&gt;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;采用对抗训练或正则化技术，约束编辑过程中对无关参数的影响，保持无关知识的稳定性&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="440" width="190" height="130" as="geometry" />
+        <mxCell id="LAS8z6Q6NvDMIxIK87Sg-38" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="470" y="126" width="200" height="494" as="geometry" />
         </mxCell>
-        <mxCell id="N_A7d5xoTMJD2YQomuYe-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="299" y="90" width="361" height="550" as="geometry" />
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-9" value="项目总体目标与项目内容支撑关系" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="376.5" y="70" width="206" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N_A7d5xoTMJD2YQomuYe-9" value="项目总体目标与项目内容支撑关系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="376.5" y="70" width="206" height="50" as="geometry" />
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-10" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
+          <mxGeometry x="310" y="126" width="150" height="494" as="geometry" />
         </mxCell>
-        <mxCell id="N_A7d5xoTMJD2YQomuYe-10" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="310" y="160" width="150" height="450" as="geometry" />
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-12" value="建设任务1：垂直领域专用数据合成方法研究" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="324" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="N_A7d5xoTMJD2YQomuYe-12" value="建设任务1：垂直领域专用数据合成方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="525" width="120" height="60" as="geometry" />
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-14" value="建设任务2：基于强化学习的垂直领域大模型训练推理技术研究" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="324" y="434" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="N_A7d5xoTMJD2YQomuYe-14" value="建设任务2：基于强化学习的垂直领域大模型训练推理技术" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-15" value="建设任务3：大模型参数化知识编辑技术研究" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="324" y="343" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="N_A7d5xoTMJD2YQomuYe-15" value="建设任务3：大模型参数化知识编辑技术" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="355" width="120" height="60" as="geometry" />
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-16" value="建设任务4：构建基于知识蒸馏的轻量化大模型" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="324" y="251" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="N_A7d5xoTMJD2YQomuYe-16" value="建设任务4：基于知识蒸馏的大模型轻量化技术。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="265" width="120" height="60" as="geometry" />
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-17" value="建设任务5：构建多智能体协同框架，实现模型在垂直领域的安全可信应用" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="324" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="N_A7d5xoTMJD2YQomuYe-17" value="建设任务5：多智能体协同框架，结合软硬件优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="185" width="120" height="60" as="geometry" />
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-19" value="总体目标" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="325" y="112" width="120" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="N_A7d5xoTMJD2YQomuYe-19" value="总体目标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="130" width="120" height="45" as="geometry" />
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-22" value="研发内容" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="495" y="112" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N_A7d5xoTMJD2YQomuYe-21" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="480" y="160" width="150" height="450" as="geometry" />
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-23" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;开发多模态知识表示与编辑框架&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="474.5" y="340" width="185.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="N_A7d5xoTMJD2YQomuYe-22" value="研发内容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="130" width="120" height="45" as="geometry" />
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-24" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;优化高效参数调整与编辑算法&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="474.5" y="365" width="185.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="N_A7d5xoTMJD2YQomuYe-23" value="多模态知识表示与编辑算法设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="340.5" width="125" height="35" as="geometry" />
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-25" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;构建自动化编辑效果评估体系&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="474.5" y="390" width="185.5" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="N_A7d5xoTMJD2YQomuYe-24" value="高效参数微调技术开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="380" width="125" height="35" as="geometry" />
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-26" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
+          <mxGeometry x="720" y="90" width="230" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="N_A7d5xoTMJD2YQomuYe-25" value="无关知识保护机制研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="421" width="125" height="35" as="geometry" />
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-27" value="指标要求" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="775" y="75" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N_A7d5xoTMJD2YQomuYe-26" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="680" y="90" width="230" height="550" as="geometry" />
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-28" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1高质量多模态数据集或语料库，包含 15 万条以上数据&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2开发垂直 领域大模型，模型参数达100B以上，支持图文输出，在上述数据集上的准确性较国内主流同量级通用大模型相对提高&amp;gt;20%&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3设计支持3种以上输入格式的知识编辑算法，单次编辑平均耗时低于1 s，编辑成功率&amp;gt;98%,无关知识保持率&amp;gt;96%&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;4大模型轻量化参数量压缩率&amp;gt;70%,轻量化后模型可在3种以上边缘侧芯片设备上进行部署推理。&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;5基于开源生态的原生应用开发、适配不少于1款国产芯片。开发部署方案，支持千级并发请求单次推理时&amp;lt;50ms&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;align=left;" parent="1" vertex="1">
+          <mxGeometry x="750" y="135" width="170" height="485" as="geometry" />
         </mxCell>
-        <mxCell id="N_A7d5xoTMJD2YQomuYe-27" value="指标要求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="735" y="60" width="120" height="50" as="geometry" />
+        <mxCell id="N_A7d5xoTMJD2YQomuYe-29" value="技术指标" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="782.5" y="120" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N_A7d5xoTMJD2YQomuYe-28" value="设计支持3种以上输入格式的知识编辑算法，单次编辑平均耗时低于1 s，编辑成功率&amp;gt;98%,无关知识保持率&amp;gt;96%。" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="710" y="140" width="170" height="200" as="geometry" />
+        <mxCell id="LAS8z6Q6NvDMIxIK87Sg-8" value="&lt;font face=&quot;仿宋_GB2312&quot;&gt;研究基于强化学习的垂直领域大模型训练推理技术(高效训练与推理)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="55" y="220" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="N_A7d5xoTMJD2YQomuYe-29" value="技术指标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="735" y="120" width="120" height="50" as="geometry" />
+        <mxCell id="LAS8z6Q6NvDMIxIK87Sg-9" value="&lt;font face=&quot;仿宋_GB2312&quot;&gt;研究大模型参数化知识编辑技术，开发高效算法支持多模态输入，实现快速、精准知识更新与应用。&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="55" y="310" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LAS8z6Q6NvDMIxIK87Sg-10" value="&lt;font face=&quot;仿宋_GB2312&quot;&gt;研究基于知识蒸馏的大模型轻量化技术，开发高效算法压缩模型，提升推理速度&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="55" y="403.5" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LAS8z6Q6NvDMIxIK87Sg-11" value="&lt;font face=&quot;仿宋_GB2312&quot;&gt;研究多智能体协同框架，结合软硬件优化，实现模型在垂直领域的安全可信应用，研究低成本部署关键技术&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="55" y="500" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LAS8z6Q6NvDMIxIK87Sg-16" value="多模态知识表示与编辑算法设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474.5" y="431" width="185.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LAS8z6Q6NvDMIxIK87Sg-17" value="高效参数微调技术开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474.5" y="456" width="185.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LAS8z6Q6NvDMIxIK87Sg-18" value="无关知识保护机制研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474.5" y="481" width="185.5" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="LAS8z6Q6NvDMIxIK87Sg-19" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;开发垂直领域数据特征提取方法&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474.5" y="520.5" width="185.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LAS8z6Q6NvDMIxIK87Sg-20" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;设计高效生成算法提升数据多样性&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474.5" y="545.5" width="185.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LAS8z6Q6NvDMIxIK87Sg-21" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;构建领域适配的数据质量评估体系&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474.5" y="570.5" width="185.5" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="LAS8z6Q6NvDMIxIK87Sg-28" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;设计高效知识蒸馏算法框架&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474.5" y="246.5" width="185.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LAS8z6Q6NvDMIxIK87Sg-29" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;优化模型压缩与推理加速&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474.5" y="271.5" width="185.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LAS8z6Q6NvDMIxIK87Sg-30" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;构建轻量化模型性能评估体系&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474.5" y="296.5" width="185.5" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="LAS8z6Q6NvDMIxIK87Sg-34" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;开发多智能体协同交互机制&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474.5" y="155.5" width="185.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LAS8z6Q6NvDMIxIK87Sg-35" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;设计垂直领域安全保障算法&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474.5" y="180.5" width="185.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LAS8z6Q6NvDMIxIK87Sg-36" value="&lt;p style=&quot;white-space-collapse: preserve;&quot; dir=&quot;auto&quot;&gt;构建可信应用效果评估体系&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474.5" y="205.5" width="185.5" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
